@@ -7,10 +7,10 @@ This system has 5 user roles: customer, consulting staff, salesstaff, delivering
 
 ## Authors
 
-- [@RyanHoang](https://github.com/QuocAn108)
-- [@ThanhBinh](https://github.com/QuocAn108)
-- [@NguyenViet](https://github.com/QuocAn108)
-- [@DinhThinh](https://github.com/QuocAn108)
+- [@RyanHoang](https://github.com/QuocAn108) (BE)
+- [@ThanhBinh](https://github.com/QuocAn108) (FE)
+- [@NguyenViet](https://github.com/QuocAn108) (FE)
+- [@DinhThinh](https://github.com/QuocAn108) (BE)
 
 ## Tech Stack
 
